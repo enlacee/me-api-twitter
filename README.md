@@ -1,7 +1,9 @@
 
 ## test
 
-Ayuda configurar api twitter
+Applications twitter in [apps twitter](https://apps.twitter.com/)
+
+Ayuda para configurar api twitter
 
 [stackoverflow ayuda](http://stackoverflow.com/questions/6550337/twitter-oauth-php-need-good-basic-example-to-get-started)
 
